@@ -27,7 +27,7 @@
 | 2023.01 ~ 2023.02 | 용문고등학교 동계 봉사 활동을 위한 '[나만의 웹페이지 만들기](https://github.com/22-winter-volunteer/Example)' 기획 및 개발             |
 | 2023.04 ~ 2023.05 | 교통약자 환승 지도 제작을 위한 정보 수집 어플리케이션 '[모두의 환승](https://github.com/AgainIoT/Everyones-Transfer_Frontend)' FE 개발 |
 | 2023.06 ~ 2023.11 | 오픈소스 매니지먼트 플랫폼 '[Open-Set-Go](https://github.com/AgainIoT/Open-Set-Go_client)' FE 개발                                     |
-| 2024.03 ~ 2024.06 | 생성형 AI 기반 여행 기록 서비스 '[TripTory](https://github.com/TripTory/TripTory_client)' FE 개발                                      |
+| 2024.03 ~ 2024.06 | 생성형 AI 기반 여행 기록 서비스 '[TripTory](https://github.com/TripTory)' FE 개발                                      |
 | 2024.09 ~         | 사용자 맞춤형 강원 워케이션 장소 추천 서비스 '[HUE 1](https://github.com/HYU-IL/HYUIL)' FE, BE 개발                                    |
 
 </div>
