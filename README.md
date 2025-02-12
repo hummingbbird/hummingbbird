@@ -71,14 +71,6 @@
 
 </div>
 
-<br>
-
-<div style="display: flex; justify-content: space-between; width: 80%; gap: 10px; align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hummingbbird&show_icons=true&theme=catppuccin_latte" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hummingbbird&layout=compact" alt="Top Langs" />
-</div>
-<br/>
-
 <div align="center">
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=pop9814)](https://solved.ac/pop9814)
