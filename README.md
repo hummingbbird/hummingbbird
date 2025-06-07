@@ -30,18 +30,20 @@
 | 2023.06 ~ 2023.11 | 오픈소스 매니지먼트 플랫폼 '[Open-Set-Go](https://github.com/AgainIoT/Open-Set-Go_client)' FE 개발                                     |
 | 2024.03 ~ 2024.06 | 생성형 AI 기반 여행 기록 서비스 '[TripTory](https://github.com/TripTory)' FE 개발                                      |
 | 2024.09 ~ 2024.12 | 사용자 맞춤형 강원 워케이션 장소 추천 서비스 '[HUE 1](https://github.com/HYU-IL/HYUIL)' FE 개발                                    |
+| 2025.01 ~ 2025.05 | AI 기반 실시간 위험 모니터링 시스템 '[NURINOON](https://github.com/hummingbbird/capstone-2025-24)' FE 개발                                    |
 
 </div>
 <br/>
 
 <div align="center">
 
-### 🎖️ Awards
+### 🏆 Awards
 
 🥈 제17회 공개SW 개발자대회 학생부문 은상(한국정보과학회 회장상)
 <br>
 🥇 2023 한국소프트웨어종합학술대회(KSC2023) 최우수논문상
-
+<br>
+🥉 2025 KMUCS EXPO 캡스톤 디자인 전시회 우수상
 </div>
 <br/>
 <br/>
@@ -58,7 +60,6 @@
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </div>
 <br/>
 
