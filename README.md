@@ -33,6 +33,8 @@
 | 2024.03 ~ 2024.06 | 생성형 AI 기반 여행 기록 서비스 '[TripTory](https://github.com/TripTory)' FE 개발                                      |
 | 2024.09 ~ 2024.12 | 사용자 맞춤형 강원 워케이션 장소 추천 서비스 '[HUE 1](https://github.com/HYU-IL/HYUIL)' FE 개발                                    |
 | 2025.01 ~ 2025.05 | AI 기반 실시간 위험 모니터링 시스템 '[NURINOON](https://github.com/hummingbbird/capstone-2025-24)' FE 개발                                    |
+| 2025.08 ~ 2025.08 | 청년 세대의 경제적, 사회적 어려움을 해결하기 위한 솔루션: 공동 정산 플랫폼, '[피자🍕](https://github.com/hummingbbird/2025_SEASONTHON_TEAM_72_FE)' FE 개발  |
+
 
 </div>
 <br/>
