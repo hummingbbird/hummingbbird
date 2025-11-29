@@ -51,6 +51,8 @@
 🥈 2025 KMUCS EXPO 캡스톤 디자인 전시회 은상
 <br>
 🥇 2025 AI·SW+X DAY 대상
+<br>
+🏆 2025 SW중심대학 우수작품경진대회 후원기업상(넷마블)
 </div>
 <br/>
 <br/>
@@ -83,6 +85,7 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hummingbbird&show_icons=true&count_private=true)
+
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=pop9814)](https://solved.ac/pop9814)
 
 </div>
