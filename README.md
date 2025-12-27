@@ -84,7 +84,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hummingbbird&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hummingbbird&show_icons=true&count_private=true)
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=pop9814)](https://solved.ac/pop9814)
 
