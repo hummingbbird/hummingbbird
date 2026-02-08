@@ -16,7 +16,7 @@
 | (주) 콘캣    | 2024.06 ~ 2024.08 | FrontEnd 인턴 개발자                    |
 | 구름톤 유니브    | 2025.03 ~ 2025.09 | 구름톤 유니브 4기 미르미                  |
 | (주) 래블업    | 2025.06 ~ 2025.08 |  FrontEnd 인턴 개발자                    |
-| DIVE SOPT 37th | 2025.09 ~ | 대학생 연합 IT 벤처 창업 동아리 SOPT 37th Web Frontend |
+| DIVE SOPT 37th | 2025.09 ~ 2026.01 | 대학생 연합 IT 벤처 창업 동아리 SOPT 37th Web Frontend |
 
 </div>
 <br>
@@ -66,7 +66,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/VanillaExtract-DB7093?style=for-the-badge&logo=VanillaExtract&logoColor=white">
+<img src="https://img.shields.io/badge/reactquery-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 </div>
