@@ -75,11 +75,6 @@
 
 <div align="center">
 
-### 🧶 Contact me
-
-<a href="https://velog.io/@pop9814"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-<a href="https://github.com/hummingbbird"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="mailto:pop98149814@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 </div>
 
